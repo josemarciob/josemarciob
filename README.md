@@ -1,6 +1,6 @@
 ### Oii!, Me chamo José Marcio    👋
 
-- 🌱 Estudando React, React Native ...
+- 🌱 Estudando mais sobre JavaScript...
 
 <div>
   <a href="https://github.com/josemarciob">
