@@ -1,6 +1,7 @@
 ### Oii!, Me chamo José Marcio    👋
 
 - 🌱 Estudando mais sobre JavaScript...
+- 🔭 Interesse em React, Typescript, NodeJS, Ferramentas que possam utilizar o JavaScript...
 
 <div>
   <a href="https://github.com/josemarciob">
